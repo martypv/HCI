@@ -1,0 +1,30 @@
+/*
+	style.css
+*/
+
+body {
+    /* color */
+    color: #ffffff;
+    background-color: rgb(100,100,100);
+}
+
+/* -------------------------------------------------------------- */
+/* Canvas Styles */
+
+#myCanvas {
+    border: 1px solid rgba(255,255,255,0.4);
+    margin-top:  40px;
+}
+
+/* -------------------------------------------------------------- */
+/* Alignment Rules */
+
+.center-text {
+    text-align: center;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
